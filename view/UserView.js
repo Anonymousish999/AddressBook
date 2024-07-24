@@ -1,4 +1,4 @@
-let addressService = require("./AddressService");
+let addressService = require("../service/AddressService");
 let read = require("readline-sync");
 
 while (true) {
