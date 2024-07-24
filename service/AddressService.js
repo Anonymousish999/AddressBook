@@ -1,6 +1,6 @@
 
 let read = require('readline-sync');
-let userSchema = require('./UserSchema');
+let userSchema = require('./model/UserSchema');
 
 let users = [];
 
